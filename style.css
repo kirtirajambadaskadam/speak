@@ -1,0 +1,38 @@
+.heading{
+    width: 100%;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+    text-align: center;
+    color:honeydew;
+}
+.copy_right_footer{
+    width: 100%;
+    text-align: center;
+    background-color: green;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:honeydew;
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+}
+
+.input{
+    font-size: 20px;
+    background-color: khaki;
+    color:black;
+    border-color: black;
+    width:50%;
+    height: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#con{
+    color: honeydew;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#ttt{
+    font-size: 20px;
+}
